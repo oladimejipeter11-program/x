@@ -1,0 +1,11 @@
+.right-side {
+  display: flex;
+  margin-top: 80px;
+}
+.right-side img {
+  width: 100%;
+  height: 100%;
+  max-width: 650px;
+  max-height: 480px;
+  object-fit: contain;
+}
